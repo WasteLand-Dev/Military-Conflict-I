@@ -65,6 +65,36 @@
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": false
+    },
+    "traverse:fir_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true,
+      "spawnBreakingLeaves": true
+    },
+    "traverse:brown_autumnal_leaves": {
+      "spawnRateFactor": 1.8,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "traverse:red_autumnal_leaves": {
+      "spawnRateFactor": 1.8,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "traverse:yellow_autumnal_leaves": {
+      "spawnRateFactor": 1.8,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "desolation:charred_branches": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "traverse:orange_autumnal_leaves": {
+      "spawnRateFactor": 1.8,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
     }
   },
   "leafSpawners": [],
