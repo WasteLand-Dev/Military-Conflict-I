@@ -1,4 +1,5 @@
 # Military Conflict I
+```v0.0.2-Alpha```
 ```1.20.1``` ```Fabric only```
 
 - Based on [Neon](https://modrinth.com/modpack/neon-modpack)
@@ -9,11 +10,27 @@ Modpaсk on the theme of the global world conflict, most of the world has been d
 ## Community
 We are an open community, always ready to help. We have our own discord server with a forum, a github page where you can leave noticed bugs or your suggestions.
 
+## Steam deck and controllers compatibility
+- Use [Controlify](https://modrinth.com/mod/controlify)
+- Controlify comes with a huge range of settings to fine-tune each of your controllers individually, including vibration strength, every single controller input bind (no hardcoding!) and more.
+
 ## Perfomance
 We recommend allocate minimum 5GB of ram for singleplayer game and 3GB for playing on server. And dual core cpu is strongly recommended.
 
 ## Community servers
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
+
+Changelog:
+- Update ping wheel
+- Update collective
+- Update emi
+- Update fasterrandom
+- New! Add fbi_swat_armors
+- New! Add landmines
+- Update modernfix
+- Update moonlight
+- New! Add new soviet
+- Add supermartijn642corelib
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
