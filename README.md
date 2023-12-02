@@ -1,5 +1,5 @@
 # Military Conflict I
-```v0.0.2-Alpha```
+```v0.0.3-Alpha```
 ```1.20.1``` ```Fabric only```
 
 - Based on [Neon](https://modrinth.com/modpack/neon-modpack)
@@ -21,16 +21,37 @@ We recommend allocate minimum 5GB of ram for singleplayer game and 3GB for playi
 Do you want to add your server to the official list of servers? Send us a message on the discord for this! But there are some rules: 1. No donation, which can affect the gameplay. 2. There is no territory private system. 3. Mods and configs on the server are identical to mods and configs on the client.
 
 Changelog:
-- Update ping wheel
+- New! Add charmonium
+- Update AmbientSounds
+- Update CleanF3
+- Update CreativeCore
+- Update HWGMod
+- Update ImmediatelyFast
+- Update Ping-Wheel
+- Update azurelib
+- Update betterarcheology
+- Update betterstats
 - Update collective
+- Update do-a-barrel-roll
+- Update dummmmmmy
 - Update emi
+- Update fabric-api
 - Update fasterrandom
-- New! Add fbi_swat_armors
-- New! Add landmines
+- Update grabbymobs
+- Update inventorytotem
+- Update landmines
 - Update modernfix
 - Update moonlight
-- New! Add new soviet
-- Add supermartijn642corelib
+- Update spidersproducewebs
+- Update traverse
+- Update ComplementaryReimagined
+- Update ComplementaryUnbound
+- Update Epoch_Shader
+- Update Snowimagined
+- Update SoftVoxelsLite
+- Update Voyager shader
+- Update rethinking-voxels
+- Update superDuperVanilla
 
 ```This modpack works on fabric!```
 https://fabricmc.net/
