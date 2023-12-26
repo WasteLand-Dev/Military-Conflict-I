@@ -1,6 +1,8 @@
 # Military Conflict I
 ```v0.0.3-Alpha```
 ```1.20.1``` ```Fabric only```
+## Moved to codeberg
+https://codeberg.org/WasteLandOrigin/Military-Conflict-I
 
 - Based on [Neon](https://modrinth.com/modpack/neon-modpack)
 
